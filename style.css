@@ -1,0 +1,46 @@
+*{
+    font-family: Verdana;
+}
+header {
+color:whitesmoke;
+background-color:black ;
+left: 0%;
+position: sticky;
+top: 0; 
+text-align: center;
+margin:0px auto;
+border-radius: 25px;
+}
+.nav{
+color:whitesmoke;
+background-color: grey;
+text-align: center;
+width: 100%;
+text-decoration: none;
+padding: 5px;
+border-radius: 5px;
+}
+
+h1 {
+    background-color: black  ;
+    color:whitesmoke;
+    width: 100%;
+}
+
+footer {
+    background-color:black; 
+    font-weight: bold;
+    color:rgb(255, 255, 255);
+    text-align: center;
+    font-size: small;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+
+}
+.mapas{
+    padding: 5%;
+}
+
+#a{
+    text-decoration: none;
+}
